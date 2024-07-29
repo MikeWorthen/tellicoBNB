@@ -92,6 +92,9 @@ const Home = () => {
           </Card>
         </CardDeck>
       </div>
+        <div>
+          <p> Effective 1/1/25 the following rates will increase.  Dog Boarding - $25.00, Cat Boarding - $20.00, Daycare - $20.00  Bath pricing will also increase.  TBD </p>
+        </div>
     </HomeContainer>
   );
 };
