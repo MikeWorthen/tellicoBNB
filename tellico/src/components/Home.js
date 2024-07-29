@@ -39,6 +39,7 @@ const Home = () => {
           our business hours.{" "}
         </p>
         <p>We look forward to a visit from you and your pet!</p>
+        <p className="update"> Effective 1/1/25 the following rates will increase.  Dog Boarding - $25.00, Cat Boarding - $20.00, Daycare - $20.00  Bath pricing will also increase.  TBD </p>
       </div>
 
       <div className="welcome-message">
@@ -163,7 +164,11 @@ const HomeContainer = styled.div`
       text-decoration: none;
       background: #627d57;
     }
+
+  .update {
+    text-align: center;
   }
+  
   @media (min-width: 600px) {
     .home-image {
       background-position: left center;
