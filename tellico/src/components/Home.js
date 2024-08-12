@@ -25,7 +25,8 @@ const Home = () => {
         </div>
       </div>
       <div className="welcome-message">
-    <h3> Effective 1/1/25 the following rates will increase.  Dog Boarding - $25.00, Cat Boarding - $20.00, Daycare - $20.00  Bath pricing will also increase.  TBD </h3>
+        <h3> Effective 1/1/25 the following rates will increase.  Dog Boarding - $25.00, Cat Boarding - $20.00, Daycare - $20.00  Bath pricing will also increase.  TBD </h3>
+          <br>
         <h3>Welcome</h3>
         <hr className="lines"></hr>
         <p>
