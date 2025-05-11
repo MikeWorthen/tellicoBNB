@@ -44,8 +44,8 @@ const Services = () => {
 
                     <div className="fee">
                         <ul >
-                            <li>Dogs: $22 per day</li>
-                            <li>Cats: $15 per day</li>
+                            <li>Dogs: $25 per day</li>
+                            <li>Cats: $20 per day</li>
                             <li>Rabbits: $10 per day</li>
                         </ul>
                         <p id="daycare">*10% discount for each additional pet</p>
@@ -113,8 +113,8 @@ const Services = () => {
                         <ul >
                             <li>Small Dog (under 20 lbs): $18</li>
                             <li>Medium Dog (up to 50 lbs): $20</li>
-                            <li>Large Dog (50-100 lbs): $25</li>
-                            <li>XLarge Dog (100+ lbs): $30</li>
+                            <li>Large Dog (50-100 lbs): $22</li>
+                            <li>XLarge Dog (100+ lbs): $30 and up</li>
                         </ul>
                     </div>
 
